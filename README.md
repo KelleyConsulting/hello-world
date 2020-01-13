@@ -1,2 +1,4 @@
 # hello-world
-First hello word repository
+
+Well I hope I can figure this out.
+There is a lot to learn.
